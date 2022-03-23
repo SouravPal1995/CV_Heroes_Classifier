@@ -8,7 +8,7 @@ This project is part of the FastAi course by Jeremmy Howard. The aim is to build
 
 ```console
 
-$ git clone https://github.com/SouravPal1995/ML_heroes_classifier.git
+$ git clone https://github.com/SouravPal1995/CV_Heroes_Classifier.git
 $ pip install -r requirements.txt
 $ voila hero_voila_app.ipynb
 
